@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @C-Carter10
+- 👋 Hi, I’m @CCarter10
 - 👀 I’m interested in coding/programming languages
 - 🌱 I’m currently learning how to be a better comput programmer
 - 💞️ I’m looking to collaborate on simple, effective projects and builds
